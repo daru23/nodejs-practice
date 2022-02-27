@@ -1,0 +1,23 @@
+{
+    "name": "api",
+    "version": "0.0.1",
+    "description": "API to provide services to web applications and others",
+    "main": "server.js",
+    "scripts": {
+        "dev": "nodemon server"
+    },
+    "dependencies": {
+        "express": "^4.17.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    },
+    "keywords": [
+        "api",
+        "server",
+        "nodejs",
+        "javascript"
+    ],
+    "license": "ISC",
+    "author": "Daniela Ruiz",
+}
